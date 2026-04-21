@@ -65,7 +65,7 @@ Deployment Checklist
 
 👥 Team Notes
 Developer: Karun Kumar
-Contact: kumkaru@DTC-KQVHKQ2166
+Contact: karunkumar02525@gmail.com
 
 Role: Full-Stack Developer
 
